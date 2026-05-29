@@ -33,6 +33,7 @@ The dashboard provides visual insights into:
 ## Dataset Source
 
 The dataset used in this project was downloaded from Kaggle for educational and analytical purposes.
+Dataset link:https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
 
 ## Project Purpose
 
